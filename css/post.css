@@ -1,0 +1,22 @@
+.home-button{
+  position: fixed;
+  top: 20px;
+  left: 20px;
+}
+
+.home-button:hover{
+  background-color: #D33773;
+}
+
+.post-block{
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+}
+
+.post-content{
+  padding: 2vw;
+}
+
+.post-content h1{
+  color: #b51151;
+}
