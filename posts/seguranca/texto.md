@@ -1,5 +1,3 @@
-<div style="text-align: justify">
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Segurança é um conceito fundamental para proteger os ativos de uma organização contra ameaças e riscos que possam comprometer sua integridade, confidencialidade e disponibilidade. Nesse contexto, os ativos podem ser entendidos como qualquer elemento que tenha valor para a organização, como informações, sistemas, equipamentos, recursos humanos, entre outros. As ameaças, por sua vez, são quaisquer eventos ou situações que possam comprometer a segurança desses ativos.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para garantir a segurança dos ativos de uma organização, é essencial considerar alguns requisitos fundamentais de segurança da informação. Esses requisitos são um conjunto de objetivos a serem atingidos para garantir que os ativos estejam protegidos contra ameaças e riscos.
@@ -27,5 +25,3 @@
 * **Risco**: a probabilidade de que uma ameaça se concretize e cause um impacto na segurança dos ativos.
 * **Impacto**: o efeito negativo que uma ameaça ou um ataque pode causar na organização. A relação entre risco e ameaça é que quanto maior a probabilidade de uma ameaça se concretizar, maior será o risco e, portanto, maior será o impacto potencial.
 * **Contramedida**: uma medida de segurança tomada para reduzir o risco de uma ameaça ou mitigar o impacto de um ataque. As contramedidas podem incluir a implementação de controles de segurança, políticas de acesso, backups de dados, entre outros.
-
-</div>

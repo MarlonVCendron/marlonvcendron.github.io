@@ -1,6 +1,3 @@
-<div style="text-align: justify">
-
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O episódio #227 do podcast Cyber Morning Call de 04/01/2023 trata das quatro seguintes notícias do mundo de segurança de redes e tecnologia.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A Eurasia Group publicou um relatório de riscos políticos para 2023. Em terceiro lugar foi apontado o crescimento exponencial do uso de IA e seus perigos, como a enorme capacidade de manipular indivíduos e criar caos político através de fake news.
@@ -21,5 +18,3 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As vulnerabilidades encontradas nos sistemas automotivos apresentam ameaças à confidencialidade, como no caso em que a localização confidencial dos véiculos é obtida, à integridade, no caso das alterações do sistema de emplacamento e na possibilidade de alterar os dados com uma conta de administrador e à autenticidade, ao tomar controle da conta de um cliente.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No caso das lojas de phishing fingindo vender o Flipper Zero, o requisito de segurança afetado é a autenticidade, já que as lojas falsas se passam pela loja original sem que algumas pessoas percebam a farsa.
-
-</div>

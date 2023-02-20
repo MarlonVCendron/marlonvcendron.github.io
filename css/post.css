@@ -1,22 +1,45 @@
-.home-button{
+.home-button {
   position: fixed;
   top: 20px;
   left: 20px;
 }
 
-.home-button:hover{
+.home-button:hover {
   background-color: #D33773;
 }
 
-.post-block{
+.post-block {
   margin-top: 2vh;
   margin-bottom: 2vh;
 }
 
-.post-content{
+.post-content {
   padding: 2vw;
 }
 
-.post-content h1{
+.post-content h1 {
   color: #b51151;
+}
+
+.markdown-body * {
+  text-align: justify;
+  font-family: 'Arial';
+}
+
+.markdown-body h2 {
+  color: #b51151;
+  font-family: 'Menlo';
+}
+
+.markdown-body a {
+  color: #740731 !important;
+  text-decoration: underline !important;
+}
+
+.markdown-body a:hover {
+  color: #b51151 !important;
+}
+
+.markdown-body strong {
+  color: #2B0212;
 }

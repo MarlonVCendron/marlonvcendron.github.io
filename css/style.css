@@ -1,8 +1,8 @@
-*{
+* {
   font-family: 'Menlo';
 }
 
-.rose-red{
+.rose-red {
   background-color: #b51151;
 }
 
@@ -12,7 +12,7 @@ body {
   flex-direction: column;
 }
 
-strong{
+strong {
   font-weight: bold;
 }
 
@@ -20,14 +20,14 @@ main {
   flex: 1 0 auto;
 }
 
-#defaultCanvas0{
+#defaultCanvas0 {
   position: absolute;
   top: 0;
   z-index: -1;
   overflow: hidden;
 }
 
-#lang{
+#lang {
   /* position: fixed; */
   position: absolute;
   top: 0;
@@ -44,7 +44,7 @@ path[d="M7 10l5 5 5-5z"] {
   fill: rgb(248, 248, 248);
 }
 
-#lang input{
+#lang input {
   font-weight: bold;
   color: rgb(248, 248, 248);
   border: none;
@@ -52,7 +52,7 @@ path[d="M7 10l5 5 5-5z"] {
   text-transform: uppercase;
 }
 
-#lang span{
+#lang span {
   color: #b51151;
   text-transform: uppercase;
 }
