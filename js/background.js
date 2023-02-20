@@ -22,7 +22,7 @@ function draw(){
     }
   }
 
-  if (frameCount % 20 == 0) {
+  if (frameCount % 5 == 0) {
     let rand = floor(random(slashes.length));
     slashes[rand].updating = true;
     slashes[rand].speed = [0.05, -0.05][floor(random(2))];
