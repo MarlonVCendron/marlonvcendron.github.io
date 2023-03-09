@@ -2,6 +2,10 @@
   font-family: 'Menlo';
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 .rose-red {
   background-color: #b51151;
 }
